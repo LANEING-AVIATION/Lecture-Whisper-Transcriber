@@ -4,6 +4,8 @@ A lightweight, localized, and efficient tool to transcribe long-duration lecture
 
 Stop draining your energy and focus by manually transcribing lengthy academic content. Just record the audio on your phone, run the script locally, and paste the generated clean text directly into **Gemini**, ChatGPT, or Claude to automatically compile well-organized study notes!
 
+![Introduction](https://github.com/LANEING-AVIATION/Lecture-Whisper-Transcriber/blob/main/Gemini_Generated_Image_.png)
+
 ---
 
 ## 🚀 Key Highlights & Advantages
